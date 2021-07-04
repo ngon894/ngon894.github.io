@@ -1,0 +1,129 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: tahoma, arial, sans-serif, 'lucida grande';
+}
+a{
+	text-decoration: none;
+	color: #696969;
+}
+p{
+	font-size: 18px;
+}
+a:hover, a:hover p{
+	color: #818753;
+}
+.container{
+	width: 1300px;
+	margin: auto;
+}
+/* Menu */
+.menu{
+	text-align: center;
+}
+.menu ul li{
+	display: inline-block;
+	padding: 10px 30px;
+	text-transform: uppercase;
+}
+.menu img{
+	margin: 0px 15px -20px;
+	float:left;
+}
+.menu i{
+	font-size:25px;
+	margin-top:50px;
+	padding:20px;
+}
+/* DANG NHAP */
+/*h1 {
+	text-align:center;
+}*/
+* {
+	box-sizing: border-box;
+}
+.register {
+	width: 500px;
+	padding: 16px;
+	margin: 0 auto;
+	background-color: white;
+}
+input[type=text], input[type=password] {
+	width: 100%;
+	padding: 15px;
+	margin: 5px 0 22px 0;
+	display: inline-block;
+	border: none;
+	background: #f1f1f1;
+}
+input[type=text]:focus, input[type=password]:focus {
+	background-color: #ddd;
+	outline: none;
+}
+hr {
+	border: 1px solid #f1f1f1;
+	margin-bottom: 25px;
+}
+.submit {
+	background-color: #000;
+	color: white;
+	padding: 15px 18px;
+	margin: 8px 0;
+	border: none;
+	cursor: pointer;
+	width: 100%;
+	opacity: 0.9;
+	margin-bottom:20px;
+}
+.submit:hover {
+	opacity: 1;
+}
+.login {
+	background-color: #ffffff;
+	text-align: center;
+}
+/* FOOTER */
+.about{
+	width: 400px;
+	float: left;
+}
+.about #trai{
+	width: 70px;
+	height: 38px;
+	margin-top: 15px;
+	margin-right: 20px;
+	float: left;
+}
+.about #phai{
+	font-size: 15px;
+	width: 245px;
+	color: #6C6666;
+	float: left;
+}
+.contact{
+	width: 300px;
+	float: left;
+}
+.contact p{
+	font-size: 16px;
+	margin-top: 10px;
+	color: #6C6666;
+}
+.contact span{
+	font-size: 20px;
+	font-weight: bold;
+}.follow{
+	width:300px;
+	float: left;
+}
+.follow i{
+	font-size:40px;
+}
+.Ten{
+	width: 500px;
+	float: left;
+}
+.Ten p{
+	font-size: 16px;
+	color: #6C6666;
+}
