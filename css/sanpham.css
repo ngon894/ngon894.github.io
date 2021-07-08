@@ -141,7 +141,7 @@ a:hover, a:hover p{
 /* FOOTER */
 .about{
 	width: 400px;
-	float: left;
+	padding-right: 900px;
 }
 .about #trai{
 	width: 70px;
